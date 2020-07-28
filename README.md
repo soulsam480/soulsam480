@@ -1,4 +1,4 @@
-  <img align="center" alt="GIF" src="/git.webp" />
+  <img align="center" alt="Main Image" src="https://raw.githubusercontent.com/soulsam480/soulsam480/master/git.webp" />
   
 <br/>
 
