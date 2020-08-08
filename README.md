@@ -1,6 +1,3 @@
-  <img align="center" alt="Main Image" src="https://raw.githubusercontent.com/soulsam480/soulsam480/master/git.webp" />
-  
-<br/>
 
 Hii 👋, I'm [Sambit](https://sambitsahoo.com) . I'm a web developer 🚀 and i love creating web interfaces. @vuejs 🧰 is my primary tool for creating web apps. I'm currently working on a Cotent Management System with vuejs 🤩🤩. When I'm not 😥 coding, I take 📸 photos and write ✍🏻 blog articles. 
 
