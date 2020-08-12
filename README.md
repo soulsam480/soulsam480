@@ -26,4 +26,4 @@ All my handles are here:
 <a href="https://www.facebook.com/sahoo.sambit.7">
   <img align="left" alt="Sambit's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-![Sambits's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Sambits's github stats](https://github-readme-stats.vercel.app/api?username=soulsam480&show_icons=true)
