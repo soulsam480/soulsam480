@@ -27,5 +27,3 @@ Hii 👋, I'm [Sambit](https://sambitsahoo.com) . I'm a web developer 🚀 and i
 - ✌️ Thank you!! 
 
 <br/>
-
-![Sambit's github stats](https://github-readme-stats.vercel.app/api?username=soulsam480&show_icons=true)
