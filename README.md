@@ -1,5 +1,6 @@
 
 #### Hii 👋, I'm [Sambit](https://sambitsahoo.com) . I create web Interfaces ⚡, write articles 📔 ,sometimes take photos 📷 and sell tshirts 👕. Oh, I forgot to mention Vuejs is 💚
+
 <a href="https://twitter.com/sambitsahoojs">
   <img align="left" alt="Sambit Sahoo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,8 +14,9 @@
   <img align="left" alt="Sambit's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
+<br/>
 
-**About Me**
+**Who**
 - 👒 One Piece is my favourite Anime. So if you love anime I'm your friend already.
 - 🚩 I'm from Odisha.
 - 🥻 Me and some of my friends have a clothing startup [Tiaamo.com](https://tiaamo.com). Check out !!
