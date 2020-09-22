@@ -1,7 +1,5 @@
 
-Hii 👋, I'm [Sambit](https://sambitsahoo.com) .I make web Interfaces⚡, write articles📔 ,sometimes take photos📷 and sell tshirts👕. Oh, I forgot to mention Vuejs is 💚
-<br/>
-<br/>
+#### Hii 👋, I'm [Sambit](https://sambitsahoo.com) . I create web Interfaces ⚡, write articles 📔 ,sometimes take photos 📷 and sell tshirts 👕. Oh, I forgot to mention Vuejs is 💚
 <a href="https://twitter.com/sambitsahoojs">
   <img align="left" alt="Sambit Sahoo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
