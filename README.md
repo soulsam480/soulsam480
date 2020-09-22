@@ -1,5 +1,7 @@
 
-#### Hii 👋, I'm [Sambit](https://sambitsahoo.com) . I create web Interfaces ⚡, write articles 📔 ,sometimes take photos 📷 and sell tshirts 👕. Oh, I forgot to mention Vuejs is 💚
+ Hii 👋, I'm [Sambit](https://sambitsahoo.com) . I create web Interfaces ⚡, write articles 📔 ,take photos 📷 sometimes and sell tshirts 👕 .
+ 
+ Oh I forgot to mention, Vuejs is 💚💚 !
 
 <a href="https://twitter.com/sambitsahoojs">
   <img align="left" alt="Sambit Sahoo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -22,7 +24,7 @@
 - 🥻 Me and some of my friends have a clothing startup [Tiaamo.com](https://tiaamo.com). Check out !!
 - 🖱️ I also love designing Clothing apparels.
 - 💻 My current project is [ecom-cms](https://github.com/soulsam480/ecom-cms) . I would love any contribution.
-- ⚛  Currently I'm learning Reactjs, GraphQL, Prisma, PostgreSQL, Electron and bun of other stuff. 
+- ⚛  Currently I'm learning Reactjs, GraphQL, Prisma, PostgreSQL, Electron and bunch of other stuff!
 - 📧 You can reach me by [soulsam480@hotmail.com](mailto:soulsam480@hotmail.com).
 - You can find my Resume [here](https://drive.google.com/file/d/1kjEnuvVNKK-zsjzbq0Peh6ldrBvg4fmT/view)! 😉😉
 - ✌️ Thank you!! 
