@@ -7,4 +7,7 @@
 </a>
 
 </p>
+<p align="center">
+View all of my projects here. https://sambitsahoo.com/projects.html (I can't pin all of them ☹️)
+</p>
 
