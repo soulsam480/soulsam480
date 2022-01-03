@@ -7,6 +7,12 @@
 </a> 
   <a href="https://noter.sambitsahoo.com"><img width="100" height="100" src="https://raw.githubusercontent.com/soulsam480/my-static-assets/master/noter.png">
 </a>
+  
+  </a> 
+  <a href="https://github.com/billbird-dev/platform"><img width="100" height="100" src="https://raw.githubusercontent.com/soulsam480/my-static-assets/master/icon-192x192.png">
+</a>
+  
+  
 
 
 </p>
