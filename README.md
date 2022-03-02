@@ -19,5 +19,9 @@
 <div align="center">
   
 [projects](https://sambitsahoo.com/projects.html) -- [blog](https://sambitsahoo.com/blog/index.html) -- [me](https://sambitsahoo.com/about.html)
-
+ 
+<small>
+My AWS free tier is exhausted so Furikaeru, BillBird and June APIs were shut down. Sorry for that 
+</small>
+  
 </div>
