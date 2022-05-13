@@ -25,3 +25,13 @@ My AWS free tier is exhausted so Furikaeru, BillBird and June APIs were shut dow
 </small>
   
 </div>
+
+
+**What's I've been up to**
+- Joined [@revenuehero](https://revenuehero.io/). Awesome product and amazing people
+- Mostly working on [Mirai](https://github.com/soulsam480/mirai) these days. Yes it's private for now.
+- Working with React, Fastify, tRPC etc. since the last few months. 
+
+
+That's all. Really active on twitter [sambitsahoo.js](https://twitter.com/sambitsahoojs). Drop me a DM. thx 😄
+
