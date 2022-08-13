@@ -33,5 +33,5 @@ My AWS free tier is exhausted so Furikaeru, BillBird and June APIs were shut dow
 - Working with React, Fastify, tRPC etc. since the last few months. 
 
 
-That's all. Really active on twitter [sambitsahoo.js](https://twitter.com/sambitsahoojs). Drop me a DM. thx 😄
+Only reachable via email -> soulsam480@hotmail.com
 
