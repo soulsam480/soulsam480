@@ -5,5 +5,5 @@
 - Moved to blr, and just enjoying working at office.
 - Working on random projects on free weekends.
 
-Only reachable via email -> soulsam480@hotmail.com and twitter -> https://twitter.com/zoroo_zuro and mastodon -> https://fosstodon.org/@zorozuro
+Only reachable via email -> soulsam480@hotmail.com : mastodon -> https://fosstodon.org/@zorozuro
 
