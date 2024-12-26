@@ -1,4 +1,4 @@
-👋 Hi there! I’m a software engineer with 4+ years of experience building cool things on the web. I love picking up new tech, solving tough problems, and working with awesome teams to ship great products. Let’s create something amazing together!
+👋 Hi there! I’m a software engineer with 4+ years of experience building cool things on the web. I love picking up new tech and solving everyday problems with simple apps.
 
 <p align="center">
   <samp>
